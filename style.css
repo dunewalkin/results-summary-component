@@ -81,7 +81,7 @@ body {
 
 
 .result__wrapper {
-   padding: 2.38rem 0 2.87rem;
+   padding: 2.37rem 0 2.87rem;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -186,7 +186,7 @@ body {
 
 
 .summary__wrapper {
-   padding: 2.38rem 2.5rem 2.87rem;
+   padding: 2.37rem 2.5rem 2.87rem;
 }
 
    @media (max-width: 680px) {
