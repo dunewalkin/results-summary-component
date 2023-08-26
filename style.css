@@ -65,6 +65,7 @@ body {
    grid-template-columns: 1fr 1fr;
    overflow: hidden;
    
+   margin-inline: 1rem;
    max-width: 46rem; 
    border-radius: 2rem;
    background-color: var(--clr-neutral-1);
@@ -75,7 +76,6 @@ body {
       .results-summary-comp {
          grid-template-columns: 1fr;
          border-radius: 0rem;
-         margin-inline: 1rem;
       }
    }
 
